@@ -1,0 +1,6 @@
+print("Hello from Ubuntu!")
+name = input("What is your name?")
+print(f"Welcome to Linux, {name}!")
+year = input("What yesr were you born in? ")
+age = 2026-int(year)
+print(f"You will be {age}years old this year")
